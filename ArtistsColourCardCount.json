@@ -1,0 +1,914 @@
+[
+  {
+    "Artist": "Kev Walker",
+    "Green": 95,
+    "Blue": 81,
+    "White": 106,
+    "Black": 125,
+    "Red": 97
+  },
+  {
+    "Artist": "Pete Venters",
+    "Green": 38,
+    "Blue": 41,
+    "White": 47,
+    "Black": 95,
+    "Red": 81
+  },
+  {
+    "Artist": "Dan Scott",
+    "Green": 73,
+    "Blue": 87,
+    "White": 58,
+    "Black": 46,
+    "Red": 57
+  },
+  {
+    "Artist": "Greg Staples",
+    "Green": 55,
+    "Blue": 64,
+    "White": 82,
+    "Black": 66,
+    "Red": 87
+  },
+  {
+    "Artist": "Christopher Moeller",
+    "Green": 57,
+    "Blue": 53,
+    "White": 70,
+    "Black": 39,
+    "Red": 60
+  },
+  {
+    "Artist": "Ron Spencer",
+    "Green": 52,
+    "Blue": 35,
+    "White": 32,
+    "Black": 56,
+    "Red": 68
+  },
+  {
+    "Artist": "Carl Critchlow",
+    "Green": 53,
+    "Blue": 28,
+    "White": 37,
+    "Black": 70,
+    "Red": 44
+  },
+  {
+    "Artist": "Svetlin Velinov",
+    "Green": 82,
+    "Blue": 92,
+    "White": 49,
+    "Black": 74,
+    "Red": 110
+  },
+  {
+    "Artist": "John Avon",
+    "Green": 81,
+    "Blue": 70,
+    "White": 67,
+    "Black": 54,
+    "Red": 76
+  },
+  {
+    "Artist": "Randy Gallegos",
+    "Green": 43,
+    "Blue": 48,
+    "White": 51,
+    "Black": 21,
+    "Red": 36
+  },
+  {
+    "Artist": "Mark Tedin",
+    "Green": 37,
+    "Blue": 52,
+    "White": 26,
+    "Black": 50,
+    "Red": 33
+  },
+  {
+    "Artist": "Steve Prescott",
+    "Green": 68,
+    "Blue": 39,
+    "White": 57,
+    "Black": 28,
+    "Red": 67
+  },
+  {
+    "Artist": "Daarken",
+    "Green": 58,
+    "Blue": 57,
+    "White": 48,
+    "Black": 122,
+    "Red": 68
+  },
+  {
+    "Artist": "Zoltan Boros",
+    "Green": 41,
+    "Blue": 38,
+    "White": 52,
+    "Black": 30,
+    "Red": 77
+  },
+  {
+    "Artist": "Terese Nielsen",
+    "Green": 56,
+    "Blue": 48,
+    "White": 59,
+    "Black": 27,
+    "Red": 29
+  },
+  {
+    "Artist": "Heather Hudson",
+    "Green": 66,
+    "Blue": 47,
+    "White": 40,
+    "Black": 23,
+    "Red": 16
+  },
+  {
+    "Artist": "Matt Cavotta",
+    "Green": 41,
+    "Blue": 42,
+    "White": 41,
+    "Black": 26,
+    "Red": 37
+  },
+  {
+    "Artist": "Karl Kopinski",
+    "Green": 36,
+    "Blue": 35,
+    "White": 32,
+    "Black": 67,
+    "Red": 65
+  },
+  {
+    "Artist": "Raymond Swanland",
+    "Green": 38,
+    "Blue": 31,
+    "White": 27,
+    "Black": 44,
+    "Red": 77
+  },
+  {
+    "Artist": "Daren Bader",
+    "Green": 44,
+    "Blue": 26,
+    "White": 36,
+    "Black": 35,
+    "Red": 33
+  },
+  {
+    "Artist": "Greg Hildebrandt",
+    "Green": 19,
+    "Blue": 15,
+    "White": 16,
+    "Black": 11,
+    "Red": 17
+  },
+  {
+    "Artist": "Chris Rahn",
+    "Green": 64,
+    "Blue": 45,
+    "White": 59,
+    "Black": 49,
+    "Red": 61
+  },
+  {
+    "Artist": "Dan Frazier",
+    "Green": 27,
+    "Blue": 20,
+    "White": 37,
+    "Black": 29,
+    "Red": 49
+  },
+  {
+    "Artist": "Wayne Reynolds",
+    "Green": 40,
+    "Blue": 20,
+    "White": 41,
+    "Black": 34,
+    "Red": 65
+  },
+  {
+    "Artist": "Izzy \"Izzy\" Medrano",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Nils Hamm",
+    "Green": 46,
+    "Blue": 38,
+    "White": 28,
+    "Black": 76,
+    "Red": 26
+  },
+  {
+    "Artist": "Rebecca Guay",
+    "Green": 71,
+    "Blue": 35,
+    "White": 46,
+    "Black": 15,
+    "Red": 9
+  },
+  {
+    "Artist": "Mark Zug",
+    "Green": 39,
+    "Blue": 27,
+    "White": 61,
+    "Black": 38,
+    "Red": 29
+  },
+  {
+    "Artist": "Rob Alexander",
+    "Green": 70,
+    "Blue": 44,
+    "White": 49,
+    "Black": 38,
+    "Red": 41
+  },
+  {
+    "Artist": "Scott M. Fischer",
+    "Green": 33,
+    "Blue": 49,
+    "White": 49,
+    "Black": 33,
+    "Red": 41
+  },
+  {
+    "Artist": "Volkan Baga",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Steven Belledin",
+    "Green": 37,
+    "Blue": 55,
+    "White": 53,
+    "Black": 40,
+    "Red": 27
+  },
+  {
+    "Artist": "Slawomir Maniak",
+    "Green": 43,
+    "Blue": 40,
+    "White": 45,
+    "Black": 42,
+    "Red": 59
+  },
+  {
+    "Artist": "Alan Pollack",
+    "Green": 24,
+    "Blue": 27,
+    "White": 25,
+    "Black": 32,
+    "Red": 15
+  },
+  {
+    "Artist": "Igor Kieryluk",
+    "Green": 30,
+    "Blue": 57,
+    "White": 58,
+    "Black": 69,
+    "Red": 30
+  },
+  {
+    "Artist": "Jesper Ejsing",
+    "Green": 75,
+    "Blue": 45,
+    "White": 37,
+    "Black": 40,
+    "Red": 52
+  },
+  {
+    "Artist": "Matt Stewart",
+    "Green": 58,
+    "Blue": 64,
+    "White": 83,
+    "Black": 36,
+    "Red": 41
+  },
+  {
+    "Artist": "Jim Nelson",
+    "Green": 34,
+    "Blue": 37,
+    "White": 15,
+    "Black": 31,
+    "Red": 21
+  },
+  {
+    "Artist": "Adam Rex",
+    "Green": 16,
+    "Blue": 29,
+    "White": 31,
+    "Black": 41,
+    "Red": 15
+  },
+  {
+    "Artist": "Dave Kendall",
+    "Green": 41,
+    "Blue": 27,
+    "White": 21,
+    "Black": 54,
+    "Red": 44
+  },
+  {
+    "Artist": "Brian Snøddy",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Paolo Parente",
+    "Green": 36,
+    "Blue": 24,
+    "White": 30,
+    "Black": 21,
+    "Red": 61
+  },
+  {
+    "Artist": "Edward P. Beard Jr.",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Christopher Rush",
+    "Green": 22,
+    "Blue": 16,
+    "White": 20,
+    "Black": 23,
+    "Red": 26
+  },
+  {
+    "Artist": "Douglas Shuler",
+    "Green": 20,
+    "Blue": 27,
+    "White": 36,
+    "Black": 21,
+    "Red": 26
+  },
+  {
+    "Artist": "Adam Paquette",
+    "Green": 62,
+    "Blue": 63,
+    "White": 40,
+    "Black": 48,
+    "Red": 57
+  },
+  {
+    "Artist": "Randy \"rk\" Post",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Chippy",
+    "Green": 21,
+    "Blue": 24,
+    "White": 20,
+    "Black": 43,
+    "Red": 16
+  },
+  {
+    "Artist": "Gabor Szikszai",
+    "Green": 7,
+    "Blue": 7,
+    "White": 12,
+    "Black": 7,
+    "Red": 20
+  },
+  {
+    "Artist": "Winona Nelson",
+    "Green": 34,
+    "Blue": 18,
+    "White": 34,
+    "Black": 35,
+    "Red": 24
+  },
+  {
+    "Artist": "Anthony S. Waters",
+    "Green": 37,
+    "Blue": 30,
+    "White": 14,
+    "Black": 16,
+    "Red": 28
+  },
+  {
+    "Artist": "Anson Maddocks",
+    "Green": 16,
+    "Blue": 23,
+    "White": 8,
+    "Black": 33,
+    "Red": 24
+  },
+  {
+    "Artist": "Mark Poole",
+    "Green": 38,
+    "Blue": 31,
+    "White": 43,
+    "Black": 17,
+    "Red": 35
+  },
+  {
+    "Artist": "Wayne England",
+    "Green": 23,
+    "Blue": 37,
+    "White": 19,
+    "Black": 18,
+    "Red": 23
+  },
+  {
+    "Artist": "Jeff Miracola",
+    "Green": 25,
+    "Blue": 32,
+    "White": 31,
+    "Black": 29,
+    "Red": 41
+  },
+  {
+    "Artist": "Thomas M. Baxa",
+    "Green": 23,
+    "Blue": 22,
+    "White": 14,
+    "Black": 57,
+    "Red": 29
+  },
+  {
+    "Artist": "Donato Giancola",
+    "Green": 36,
+    "Blue": 46,
+    "White": 46,
+    "Black": 31,
+    "Red": 29
+  },
+  {
+    "Artist": "Franz Vohwinkel",
+    "Green": 22,
+    "Blue": 27,
+    "White": 20,
+    "Black": 17,
+    "Red": 24
+  },
+  {
+    "Artist": "Tim Hildebrandt",
+    "Green": 5,
+    "Blue": 1,
+    "White": 12,
+    "Black": 4,
+    "Red": 6
+  },
+  {
+    "Artist": "John Matson",
+    "Green": 28,
+    "Blue": 24,
+    "White": 18,
+    "Black": 19,
+    "Red": 15
+  },
+  {
+    "Artist": "Alex Horley-Orlandelli",
+    "Green": 21,
+    "Blue": 24,
+    "White": 17,
+    "Black": 29,
+    "Red": 26
+  },
+  {
+    "Artist": "Daniel Ljunggren",
+    "Green": 38,
+    "Blue": 34,
+    "White": 33,
+    "Black": 31,
+    "Red": 23
+  },
+  {
+    "Artist": "Jaime Jones",
+    "Green": 32,
+    "Blue": 28,
+    "White": 12,
+    "Black": 20,
+    "Red": 40
+  },
+  {
+    "Artist": "James Paick",
+    "Green": 27,
+    "Blue": 23,
+    "White": 30,
+    "Black": 15,
+    "Red": 29
+  },
+  {
+    "Artist": "Jason Felix",
+    "Green": 18,
+    "Blue": 31,
+    "White": 14,
+    "Black": 33,
+    "Red": 14
+  },
+  {
+    "Artist": "Dave Dorman",
+    "Green": 13,
+    "Blue": 17,
+    "White": 26,
+    "Black": 14,
+    "Red": 35
+  },
+  {
+    "Artist": "Johann Bodin",
+    "Green": 27,
+    "Blue": 40,
+    "White": 21,
+    "Black": 31,
+    "Red": 38
+  },
+  {
+    "Artist": "Magali Villeneuve",
+    "Green": 47,
+    "Blue": 48,
+    "White": 62,
+    "Black": 30,
+    "Red": 28
+  },
+  {
+    "Artist": "Darrell Riche",
+    "Green": 30,
+    "Blue": 17,
+    "White": 22,
+    "Black": 16,
+    "Red": 21
+  },
+  {
+    "Artist": "Seb McKinnon",
+    "Green": 20,
+    "Blue": 34,
+    "White": 32,
+    "Black": 61,
+    "Red": 18
+  },
+  {
+    "Artist": "Howard Lyon",
+    "Green": 42,
+    "Blue": 39,
+    "White": 48,
+    "Black": 13,
+    "Red": 14
+  },
+  {
+    "Artist": "Noah Bradley",
+    "Green": 21,
+    "Blue": 21,
+    "White": 34,
+    "Black": 16,
+    "Red": 36
+  },
+  {
+    "Artist": "Tony DiTerlizzi",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Yeong-Hao Han",
+    "Green": 48,
+    "Blue": 46,
+    "White": 23,
+    "Black": 29,
+    "Red": 35
+  },
+  {
+    "Artist": "D. Alexander Gregory",
+    "Green": 15,
+    "Blue": 15,
+    "White": 27,
+    "Black": 18,
+    "Red": 10
+  },
+  {
+    "Artist": "James Ryman",
+    "Green": 20,
+    "Blue": 20,
+    "White": 36,
+    "Black": 25,
+    "Red": 15
+  },
+  {
+    "Artist": "Arnie Swekel",
+    "Green": 20,
+    "Blue": 22,
+    "White": 10,
+    "Black": 18,
+    "Red": 16
+  },
+  {
+    "Artist": "Steve Argyle",
+    "Green": 23,
+    "Blue": 21,
+    "White": 33,
+    "Black": 29,
+    "Red": 34
+  },
+  {
+    "Artist": "Lars Grant-West",
+    "Green": 51,
+    "Blue": 22,
+    "White": 22,
+    "Black": 33,
+    "Red": 16
+  },
+  {
+    "Artist": "Titus Lunter",
+    "Green": 34,
+    "Blue": 34,
+    "White": 34,
+    "Black": 34,
+    "Red": 38
+  },
+  {
+    "Artist": "Aleksi Briclot",
+    "Green": 22,
+    "Blue": 17,
+    "White": 20,
+    "Black": 29,
+    "Red": 39
+  },
+  {
+    "Artist": "Anthony Palumbo",
+    "Green": 12,
+    "Blue": 14,
+    "White": 24,
+    "Black": 19,
+    "Red": 17
+  },
+  {
+    "Artist": "David Martin",
+    "Green": 16,
+    "Blue": 15,
+    "White": 16,
+    "Black": 17,
+    "Red": 17
+  },
+  {
+    "Artist": "Michael Sutfin",
+    "Green": 10,
+    "Blue": 19,
+    "White": 17,
+    "Black": 17,
+    "Red": 16
+  },
+  {
+    "Artist": "Zack Stella",
+    "Green": 22,
+    "Blue": 26,
+    "White": 27,
+    "Black": 24,
+    "Red": 26
+  },
+  {
+    "Artist": "Clint Cearley",
+    "Green": 7,
+    "Blue": 42,
+    "White": 15,
+    "Black": 28,
+    "Red": 22
+  },
+  {
+    "Artist": "David Palumbo",
+    "Green": 17,
+    "Blue": 21,
+    "White": 44,
+    "Black": 28,
+    "Red": 12
+  },
+  {
+    "Artist": "Aaron Miller",
+    "Green": 15,
+    "Blue": 17,
+    "White": 35,
+    "Black": 27,
+    "Red": 24
+  },
+  {
+    "Artist": "Tony Szczudlo",
+    "Green": 13,
+    "Blue": 16,
+    "White": 8,
+    "Black": 20,
+    "Red": 21
+  },
+  {
+    "Artist": "Glen Angus",
+    "Green": 11,
+    "Blue": 21,
+    "White": 10,
+    "Black": 17,
+    "Red": 17
+  },
+  {
+    "Artist": "Jason Chan",
+    "Green": 20,
+    "Blue": 14,
+    "White": 28,
+    "Black": 12,
+    "Red": 21
+  },
+  {
+    "Artist": "Ryan Pancoast",
+    "Green": 48,
+    "Blue": 40,
+    "White": 56,
+    "Black": 30,
+    "Red": 22
+  },
+  {
+    "Artist": "Eric Peterson",
+    "Green": 15,
+    "Blue": 20,
+    "White": 18,
+    "Black": 16,
+    "Red": 9
+  },
+  {
+    "Artist": "Jim Murray",
+    "Green": 21,
+    "Blue": 18,
+    "White": 21,
+    "Black": 17,
+    "Red": 19
+  },
+  {
+    "Artist": "Quinton Hoover",
+    "Green": 20,
+    "Blue": 12,
+    "White": 13,
+    "Black": 12,
+    "Red": 11
+  },
+  {
+    "Artist": "Todd Lockwood",
+    "Green": 21,
+    "Blue": 14,
+    "White": 32,
+    "Black": 13,
+    "Red": 20
+  },
+  {
+    "Artist": "Mike Bierek",
+    "Green": 19,
+    "Blue": 31,
+    "White": 20,
+    "Black": 18,
+    "Red": 20
+  },
+  {
+    "Artist": "Ben Thompson",
+    "Green": 6,
+    "Blue": 16,
+    "White": 20,
+    "Black": 12,
+    "Red": 13
+  },
+  {
+    "Artist": "Tom Wänerstrand",
+    "Green": 7,
+    "Blue": 13,
+    "White": 9,
+    "Black": 7,
+    "Red": 16
+  },
+  {
+    "Artist": "Vincent Proce",
+    "Green": 29,
+    "Blue": 26,
+    "White": 12,
+    "Black": 41,
+    "Red": 22
+  },
+  {
+    "Artist": "Jason A. Engle",
+    "Green": 38,
+    "Blue": 25,
+    "White": 39,
+    "Black": 66,
+    "Red": 47
+  },
+  {
+    "Artist": "Tyler Jacobson",
+    "Green": 26,
+    "Blue": 34,
+    "White": 36,
+    "Black": 42,
+    "Red": 39
+  },
+  {
+    "Artist": "Justin Sweet",
+    "Green": 19,
+    "Blue": 12,
+    "White": 11,
+    "Black": 14,
+    "Red": 20
+  },
+  {
+    "Artist": "Warren Mahy",
+    "Green": 13,
+    "Blue": 22,
+    "White": 18,
+    "Black": 19,
+    "Red": 22
+  },
+  {
+    "Artist": "Chase Stone",
+    "Green": 31,
+    "Blue": 35,
+    "White": 20,
+    "Black": 29,
+    "Red": 31
+  },
+  {
+    "Artist": "Kaja Foglio",
+    "Green": 8,
+    "Blue": 17,
+    "White": 14,
+    "Black": 6,
+    "Red": 5
+  },
+  {
+    "Artist": "Luca Zontini",
+    "Green": 12,
+    "Blue": 17,
+    "White": 7,
+    "Black": 9,
+    "Red": 14
+  },
+  {
+    "Artist": "Tomasz Jedruszek",
+    "Green": 41,
+    "Blue": 23,
+    "White": 19,
+    "Black": 40,
+    "Red": 34
+  },
+  {
+    "Artist": "Amy Weber",
+    "Green": 9,
+    "Blue": 11,
+    "White": 6,
+    "Black": 3,
+    "Red": 5
+  },
+  {
+    "Artist": "Daniel Gelon",
+    "Green": 16,
+    "Blue": 8,
+    "White": 6,
+    "Black": 9,
+    "Red": 16
+  },
+  {
+    "Artist": "Melissa A. Benson",
+    "Green": 15,
+    "Blue": 8,
+    "White": 14,
+    "Black": 14,
+    "Red": 13
+  },
+  {
+    "Artist": "Richard Kane Ferguson",
+    "Green": 17,
+    "Blue": 30,
+    "White": 22,
+    "Black": 27,
+    "Red": 18
+  },
+  {
+    "Artist": "Victor Adame Minguez",
+    "Green": 37,
+    "Blue": 33,
+    "White": 50,
+    "Black": 29,
+    "Red": 39
+  },
+  {
+    "Artist": "Johannes Voss",
+    "Green": 24,
+    "Blue": 27,
+    "White": 51,
+    "Black": 31,
+    "Red": 23
+  }
+]

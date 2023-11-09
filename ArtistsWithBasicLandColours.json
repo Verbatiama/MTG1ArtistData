@@ -1,11 +1,11 @@
 [
   {
-    "Artist": "Kevin \"Kev\" Walker",
-    "Green": "",
-    "Blue": "",
-    "White": "",
-    "Black": "",
-    "Red": ""
+    "Artist": "Kev Walker",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
   },
   {
     "Artist": "Pete Venters",

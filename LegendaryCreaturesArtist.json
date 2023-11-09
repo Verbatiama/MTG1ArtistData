@@ -284,6 +284,13 @@
     ]
   },
   {
+    "name": "Volrath the Fallen",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
     "name": "Iwamori of the Open Fist",
     "artist": "Paolo Parente",
     "color_identity": [
@@ -382,6 +389,14 @@
     "color_identity": [
       "G",
       "R"
+    ]
+  },
+  {
+    "name": "Nath of the Gilt-Leaf",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B",
+      "G"
     ]
   },
   {
@@ -569,6 +584,13 @@
     "color_identity": [
       "G",
       "U"
+    ]
+  },
+  {
+    "name": "Myojin of Night's Reach",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B"
     ]
   },
   {
@@ -893,6 +915,13 @@
     ]
   },
   {
+    "name": "He Who Hungers",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
     "name": "Etali, Primal Storm",
     "artist": "Raymond Swanland",
     "color_identity": [
@@ -932,6 +961,14 @@
       "G",
       "U",
       "W"
+    ]
+  },
+  {
+    "name": "Jhoira of the Ghitu",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "R",
+      "U"
     ]
   },
   {
@@ -1119,6 +1156,13 @@
     ]
   },
   {
+    "name": "Arashi, the Sky Asunder",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
     "name": "Oviya Pashiri, Sage Lifecrafter",
     "artist": "Magali Villeneuve",
     "color_identity": [
@@ -1139,6 +1183,13 @@
     "color_identity": [
       "B",
       "U"
+    ]
+  },
+  {
+    "name": "Ardoz, Cobbler of War",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "R"
     ]
   },
   {
@@ -1185,6 +1236,14 @@
     "artist": "Chris Rahn",
     "color_identity": [
       "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Bladewing the Risen",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B",
       "R"
     ]
   },
@@ -1363,6 +1422,13 @@
     ]
   },
   {
+    "name": "Ixidor, Reality Sculptor",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
     "name": "Mayael the Anima",
     "artist": "Jason Chan",
     "color_identity": [
@@ -1398,6 +1464,13 @@
     "artist": "Daarken",
     "color_identity": [
       "B"
+    ]
+  },
+  {
+    "name": "Telim'Tor",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "R"
     ]
   },
   {
@@ -1632,6 +1705,13 @@
     "color_identity": [
       "R",
       "U"
+    ]
+  },
+  {
+    "name": "Kiyomaro, First to Stand",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "W"
     ]
   },
   {
@@ -1987,6 +2067,13 @@
     "artist": "Johannes Voss",
     "color_identity": [
       "W"
+    ]
+  },
+  {
+    "name": "Chainer, Dementia Master",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B"
     ]
   },
   {
@@ -2767,6 +2854,15 @@
     ]
   },
   {
+    "name": "Beluna Grandsquall // Seek Thrills",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "G",
+      "R",
+      "U"
+    ]
+  },
+  {
     "name": "Lord of Tresserhorn",
     "artist": "Anson Maddocks",
     "color_identity": [
@@ -2828,6 +2924,13 @@
     "color_identity": [
       "B",
       "U"
+    ]
+  },
+  {
+    "name": "Patron of the Nezumi",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B"
     ]
   },
   {
@@ -3148,6 +3251,13 @@
     ]
   },
   {
+    "name": "Tahngarth, Talruum Hero",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
     "name": "Mirri, Cat Warrior",
     "artist": "Daren Bader",
     "color_identity": [
@@ -3159,6 +3269,13 @@
     "artist": "Christopher Moeller",
     "color_identity": [
       "G"
+    ]
+  },
+  {
+    "name": "Mirri the Cursed",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B"
     ]
   },
   {
@@ -3482,6 +3599,11 @@
     "color_identity": [
       "U"
     ]
+  },
+  {
+    "name": "Emrakul, the Aeons Torn",
+    "artist": "Kev Walker",
+    "color_identity": []
   },
   {
     "name": "Gonti, Lord of Luxury",
@@ -3937,6 +4059,13 @@
     ]
   },
   {
+    "name": "Homura, Human Ascendant // Homura's Essence",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
     "name": "Ruric Thar, the Unbowed",
     "artist": "Tyler Jacobson",
     "color_identity": [
@@ -4268,6 +4397,13 @@
     ]
   },
   {
+    "name": "Myojin of Seeing Winds",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
     "name": "Mizzix, Replica Rider",
     "artist": "Zoltan Boros",
     "color_identity": [
@@ -4376,6 +4512,14 @@
       "B",
       "G",
       "R"
+    ]
+  },
+  {
+    "name": "Thelon of Havenwood",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B",
+      "G"
     ]
   },
   {
@@ -4519,6 +4663,13 @@
     "artist": "Magali Villeneuve",
     "color_identity": [
       "W"
+    ]
+  },
+  {
+    "name": "Sekki, Seasons' Guide",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "G"
     ]
   },
   {
@@ -4733,6 +4884,13 @@
     ]
   },
   {
+    "name": "Myojin of Cleansing Fire",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
     "name": "Uchbenbak, the Great Mistake",
     "artist": "Steven Belledin",
     "color_identity": [
@@ -4779,6 +4937,15 @@
     "artist": "Jason A. Engle",
     "color_identity": [
       "B"
+    ]
+  },
+  {
+    "name": "Shattergang Brothers",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B",
+      "G",
+      "R"
     ]
   },
   {
@@ -5013,6 +5180,13 @@
   {
     "name": "Henrika Domnathi // Henrika, Infernal Seer",
     "artist": "Nils Hamm",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Commander Greven il-Vec",
+    "artist": "Kev Walker",
     "color_identity": [
       "B"
     ]
@@ -6042,6 +6216,13 @@
     ]
   },
   {
+    "name": "Visara the Dreadful",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
     "name": "Kroxa, Titan of Death's Hunger",
     "artist": "Vincent Proce",
     "color_identity": [
@@ -6087,6 +6268,13 @@
     "color_identity": [
       "B",
       "W"
+    ]
+  },
+  {
+    "name": "Kamahl, Pit Fighter",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "R"
     ]
   },
   {
@@ -6386,6 +6574,16 @@
     ]
   },
   {
+    "name": "Atraxa, Praetors' Voice",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B",
+      "G",
+      "U",
+      "W"
+    ]
+  },
+  {
     "name": "Endrek Sahr, Master Breeder",
     "artist": "Mark Tedin",
     "color_identity": [
@@ -6554,6 +6752,20 @@
     ]
   },
   {
+    "name": "Slobad, Goblin Tinkerer",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Myojin of Infinite Rage",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
     "name": "Basandra, Battle Seraph",
     "artist": "Terese Nielsen",
     "color_identity": [
@@ -6606,6 +6818,13 @@
     "color_identity": [
       "B",
       "U"
+    ]
+  },
+  {
+    "name": "Seizan, Perverter of Truth",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B"
     ]
   },
   {
@@ -7101,6 +7320,13 @@
     ]
   },
   {
+    "name": "Kamahl, Pit Fighter",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
     "name": "Dwynen, Gilt-Leaf Daen",
     "artist": "Steven Belledin",
     "color_identity": [
@@ -7168,6 +7394,13 @@
       "R",
       "U",
       "W"
+    ]
+  },
+  {
+    "name": "Myojin of Life's Web",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "G"
     ]
   },
   {
@@ -7534,6 +7767,15 @@
     ]
   },
   {
+    "name": "Ertai, the Corrupted",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "B",
+      "U",
+      "W"
+    ]
+  },
+  {
     "name": "Dakkon Blackblade",
     "artist": "Richard Kane Ferguson",
     "color_identity": [
@@ -7549,6 +7791,13 @@
       "B",
       "G",
       "R"
+    ]
+  },
+  {
+    "name": "Kira, Great Glass-Spinner",
+    "artist": "Kev Walker",
+    "color_identity": [
+      "U"
     ]
   },
   {
