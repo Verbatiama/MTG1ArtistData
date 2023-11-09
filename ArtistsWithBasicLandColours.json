@@ -1,0 +1,914 @@
+[
+  {
+    "Artist": "Kevin \"Kev\" Walker",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Pete Venters",
+    "Green": 1,
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": ""
+  },
+  {
+    "Artist": "Dan Scott",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Greg Staples",
+    "Green": "",
+    "Blue": "",
+    "White": 1,
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Christopher Moeller",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Ron Spencer",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": ""
+  },
+  {
+    "Artist": "Carl Critchlow",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Svetlin Velinov",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "John Avon",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Randy Gallegos",
+    "Green": "",
+    "Blue": 1,
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Mark Tedin",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Steve Prescott",
+    "Green": 1,
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Daarken",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": ""
+  },
+  {
+    "Artist": "Zoltan Boros",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Terese Nielsen",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Heather Hudson",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Matt Cavotta",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Karl Kopinski",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Raymond Swanland",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Daren Bader",
+    "Green": "",
+    "Blue": 1,
+    "White": 1,
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Greg Hildebrandt",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Chris Rahn",
+    "Green": "",
+    "Blue": "",
+    "White": 1,
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Dan Frazier",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": ""
+  },
+  {
+    "Artist": "Wayne Reynolds",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Izzy \"Izzy\" Medrano",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Nils Hamm",
+    "Green": "",
+    "Blue": 1,
+    "White": 1,
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Rebecca Guay",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Mark Zug",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Rob Alexander",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Scott M. Fischer",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Volkan Baga",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Steven Belledin",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Slawomir Maniak",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": ""
+  },
+  {
+    "Artist": "Alan Pollack",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": ""
+  },
+  {
+    "Artist": "Igor Kieryluk",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Jesper Ejsing",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Matt Stewart",
+    "Green": 1,
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Jim Nelson",
+    "Green": 1,
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": ""
+  },
+  {
+    "Artist": "Adam Rex",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Dave Kendall",
+    "Green": "",
+    "Blue": "",
+    "White": 1,
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Brian Snøddy",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Paolo Parente",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Edward P. Beard Jr.",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Christopher Rush",
+    "Green": 1,
+    "Blue": "",
+    "White": 1,
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Douglas Shuler",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Adam Paquette",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Randy \"rk\" Post",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Chippy",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": ""
+  },
+  {
+    "Artist": "Gabor Szikszai",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Winona Nelson",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Anthony S. Waters",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Anson Maddocks",
+    "Green": "",
+    "Blue": 1,
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Mark Poole",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Wayne England",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Jeff Miracola",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Thomas M. Baxa",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Donato Giancola",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Franz Vohwinkel",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Tim Hildebrandt",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "John Matson",
+    "Green": 1,
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Alex Horley-Orlandelli",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": ""
+  },
+  {
+    "Artist": "Daniel Ljunggren",
+    "Green": "",
+    "Blue": "",
+    "White": 1,
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Jaime Jones",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "James Paick",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Jason Felix",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Dave Dorman",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Johann Bodin",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Magali Villeneuve",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Darrell Riche",
+    "Green": 1,
+    "Blue": 1,
+    "White": "",
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Seb McKinnon",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Howard Lyon",
+    "Green": "",
+    "Blue": "",
+    "White": 1,
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Noah Bradley",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Tony DiTerlizzi",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Yeong-Hao Han",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "D. Alexander Gregory",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "James Ryman",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Arnie Swekel",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": ""
+  },
+  {
+    "Artist": "Steve Argyle",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Lars Grant-West",
+    "Green": 1,
+    "Blue": "",
+    "White": 1,
+    "Black": 1,
+    "Red": ""
+  },
+  {
+    "Artist": "Titus Lunter",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Aleksi Briclot",
+    "Green": 1,
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Anthony Palumbo",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "David Martin",
+    "Green": 1,
+    "Blue": "",
+    "White": 1,
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Michael Sutfin",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Zack Stella",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Clint Cearley",
+    "Green": "",
+    "Blue": "",
+    "White": 1,
+    "Black": 1,
+    "Red": ""
+  },
+  {
+    "Artist": "David Palumbo",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Aaron Miller",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Tony Szczudlo",
+    "Green": 1,
+    "Blue": 1,
+    "White": "",
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Glen Angus",
+    "Green": 1,
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Jason Chan",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Ryan Pancoast",
+    "Green": 1,
+    "Blue": "",
+    "White": 1,
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Eric Peterson",
+    "Green": "",
+    "Blue": 1,
+    "White": 1,
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Jim Murray",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Quinton Hoover",
+    "Green": 1,
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Todd Lockwood",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Mike Bierek",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": ""
+  },
+  {
+    "Artist": "Ben Thompson",
+    "Green": "",
+    "Blue": 1,
+    "White": 1,
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Tom Wänerstrand",
+    "Green": "",
+    "Blue": "",
+    "White": 1,
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Vincent Proce",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Jason A. Engle",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Tyler Jacobson",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Justin Sweet",
+    "Green": "",
+    "Blue": "",
+    "White": 1,
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Warren Mahy",
+    "Green": "",
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Chase Stone",
+    "Green": 1,
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Kaja Foglio",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Luca Zontini",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Tomasz Jedruszek",
+    "Green": 1,
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": 1
+  },
+  {
+    "Artist": "Amy Weber",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Daniel Gelon",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Melissa A. Benson",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Richard Kane Ferguson",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": "",
+    "Red": ""
+  },
+  {
+    "Artist": "Victor Adame Minguez",
+    "Green": "",
+    "Blue": "",
+    "White": "",
+    "Black": 1,
+    "Red": 1
+  },
+  {
+    "Artist": "Johannes Voss",
+    "Green": 1,
+    "Blue": 1,
+    "White": 1,
+    "Black": 1,
+    "Red": 1
+  }
+]

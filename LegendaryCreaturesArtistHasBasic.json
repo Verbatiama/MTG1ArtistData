@@ -1,0 +1,2606 @@
+[
+  {
+    "name": "Hogaak, Arisen Necropolis",
+    "artist": "Vincent Proce",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Ghalta, Primal Hunger",
+    "artist": "Chase Stone",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Satsuki, the Living Lore",
+    "artist": "Ryan Pancoast",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Evra, Halcyon Witness",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Keiga, the Tide Star",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Wayta, Trainer Prodigy",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G",
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Rakdos, Lord of Riots",
+    "artist": "Vincent Proce",
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Balthor the Defiled",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Tolsimir Wolfblood",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Kura, the Boundless Sky",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Livaan, Cultist of Tiamat",
+    "artist": "Jeff Miracola",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "The First Sliver",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Shauku, Endbringer",
+    "artist": "Pete Venters",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Gallia of the Endless Dance",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Grenzo, Havoc Raiser",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Norika Yamazaki, the Poet",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Sek'Kuar, Deathkeeper",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "B",
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Tarox Bladewing",
+    "artist": "Aleksi Briclot",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Éomer, Marshal of Rohan",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Neyith of the Dire Hunt",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Ojer Kaslem, Deepest Growth // Temple of Cultivation",
+    "artist": "Ryan Pancoast",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Cabal Patriarch",
+    "artist": "Mark Zug",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Joven",
+    "artist": "Douglas Shuler",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Toshiro Umezawa",
+    "artist": "Christopher Moeller",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Fynn, the Fangbearer",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Fangorn, Tree Shepherd",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "The Goose Mother",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Patron of the Kitsune",
+    "artist": "Ben Thompson",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Haakon, Stromgald Scourge",
+    "artist": "Mark Zug",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "King Darien XLVIII",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Imodane, the Pyrohammer",
+    "artist": "Chris Rahn",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Trynn, Champion of Freedom",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Arcades Sabboth",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "G",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Thalia, Guardian of Thraben",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Sai, Master Thopterist",
+    "artist": "Adam Paquette",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Baron Von Count",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Toggo, Goblin Weaponsmith",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Farideh, Devil's Chosen",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Sram, Senior Edificer",
+    "artist": "Chris Rahn",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Thalia, Guardian of Thraben",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Zirda, the Dawnwaker",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Zilortha, Strength Incarnate",
+    "artist": "Chase Stone",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Thalia, Guardian of Thraben",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Galea, Kindler of Hope",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "G",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Gyruda, Doom of Depths",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "The Mimeoplasm",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Titania, Protector of Argoth",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ulamog, the Infinite Gyre",
+    "artist": "Aleksi Briclot",
+    "color_identity": []
+  },
+  {
+    "name": "Frodo, Determined Hero",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Jhoira of the Ghitu",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Sengir, the Dark Baron",
+    "artist": "Pete Venters",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Valduk, Keeper of the Flame",
+    "artist": "Victor Adame Minguez",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Henzie \"Toolbox\" Torre",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "B",
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Yorion, Sky Nomad",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Bruna, the Fading Light",
+    "artist": "Clint Cearley",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Bladewing the Risen",
+    "artist": "Seb McKinnon",
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Oviya Pashiri, Sage Lifecrafter",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Pia Nalaar, Consul of Revival",
+    "artist": "Yeong-Hao Han",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Szadek, Lord of Secrets",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "Lord Magnus",
+    "artist": "Mark Tedin",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "God-Eternal Bontu",
+    "artist": "Adam Paquette",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Chandra, Fire of Kaladesh // Chandra, Roaring Flame",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Shanna, Sisay's Legacy",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Greta, Sweettooth Scourge",
+    "artist": "Steve Prescott",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Koma, Cosmos Serpent",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Isamaru, Hound of Konda",
+    "artist": "Christopher Moeller",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Dragonlord Silumgar",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "Zahid, Djinn of the Lamp",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Oyobi, Who Split the Heavens",
+    "artist": "Christopher Moeller",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Yedora, Grave Gardener",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Major Teroh",
+    "artist": "Daren Bader",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Korlash, Heir to Blackblade",
+    "artist": "Daarken",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Rosheen Meanderer",
+    "artist": "Aleksi Briclot",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Kopala, Warden of Waves",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Nezahal, Primal Tide",
+    "artist": "Yeong-Hao Han",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Ashling, the Extinguisher",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Commander Eesha",
+    "artist": "Rebecca Guay",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Parnesse, the Subtle Brush",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "B",
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Goreclaw, Terror of Qal Sisma",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Hazoret the Fervent",
+    "artist": "Chase Stone",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "God-Eternal Rhonas",
+    "artist": "Adam Paquette",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ib Halfheart, Goblin Tactician",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Ink-Eyes, Servant of Oni",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Rashmi, Eternities Crafter",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Gut, True Soul Zealot",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Etali, Primal Conqueror // Etali, Primal Sickness",
+    "artist": "Yeong-Hao Han",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Kozilek, the Great Distortion",
+    "artist": "Jaime Jones",
+    "color_identity": []
+  },
+  {
+    "name": "Elesh Norn // The Argent Etchings",
+    "artist": "Ryan Pancoast",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Chainer, Dementia Master",
+    "artist": "Mark Zug",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Gor Muldrak, Amphinologist",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Saffi Eriksdotter",
+    "artist": "Ryan Pancoast",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Miara, Thorn of the Glade",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Willowdusk, Essence Seer",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Cloudhoof Kirin",
+    "artist": "Randy Gallegos",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Torbran, Thane of Red Fell",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Urza, Powerstone Prodigy",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Lyra Dawnbringer",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Palladia-Mors, the Ruiner",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "G",
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Thalia, Heretic Cathar",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Rebbec, Architect of Ascension",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Yosei, the Morning Star",
+    "artist": "Chris Rahn",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Baral, Chief of Compliance",
+    "artist": "Yeong-Hao Han",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "God-Eternal Kefnet",
+    "artist": "Adam Paquette",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Sophina, Spearsage Deserter",
+    "artist": "Greg Staples",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Leovold, Emissary of Trest",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Kambal, Consul of Allocation",
+    "artist": "Vincent Proce",
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Daxos the Returned",
+    "artist": "Adam Paquette",
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Champions of Archery // Join the Group",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Brinelin, the Moon Kraken",
+    "artist": "Adam Paquette",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Feldon of the Third Path",
+    "artist": "Chase Stone",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Varolz, the Scar-Striped",
+    "artist": "Adam Paquette",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Obzedat, Ghost Council",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Omnath, Locus of Mana",
+    "artist": "Chase Stone",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Brokkos, Apex of Forever",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Zur, Eternal Schemer",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "B",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Chandler",
+    "artist": "Douglas Shuler",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Emrakul, the Aeons Torn",
+    "artist": "Vincent Proce",
+    "color_identity": []
+  },
+  {
+    "name": "Rowan, Scion of War",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Emrakul, the Promised End",
+    "artist": "John Avon",
+    "color_identity": []
+  },
+  {
+    "name": "Rhonas the Indomitable",
+    "artist": "Chase Stone",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ojer Axonil, Deepest Might // Temple of Power",
+    "artist": "Victor Adame Minguez",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Irini Sengir",
+    "artist": "Pete Venters",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Baron Sengir",
+    "artist": "Pete Venters",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Fblthp, the Lost",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Neheb, the Eternal",
+    "artist": "Chris Rahn",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Myojin of Towering Might",
+    "artist": "Ryan Pancoast",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Yukora, the Prisoner",
+    "artist": "Tony Szczudlo",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Abomination of Llanowar",
+    "artist": "Vincent Proce",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Thromok the Insatiable",
+    "artist": "Terese Nielsen",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Loran of the Third Path",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Brisela, Voice of Nightmares",
+    "artist": "Clint Cearley",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "God-Eternal Oketra",
+    "artist": "Adam Paquette",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Goro-Goro and Satoru",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "B",
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Eight-and-a-Half-Tails",
+    "artist": "Daren Bader",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Balan, Wandering Knight",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Winota, Joiner of Forces",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Gyome, Master Chef",
+    "artist": "Steve Prescott",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Torsten Von Ursus",
+    "artist": "Mark Poole",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Gwaihir, Greatest of the Eagles",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Aclazotz, Deepest Betrayal // Temple of the Dead",
+    "artist": "Steve Prescott",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ashling the Pilgrim",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Licia, Sanguine Tribune",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "B",
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Valentin, Dean of the Vein // Lisette, Dean of the Root",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Yisan, the Wanderer Bard",
+    "artist": "Chase Stone",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Jareth, Leonine Titan",
+    "artist": "Daren Bader",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Ertai, the Corrupted",
+    "artist": "Mark Tedin",
+    "color_identity": [
+      "B",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Hanweir, the Writhing Township",
+    "artist": "Vincent Proce",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Marhault Elsdragon",
+    "artist": "Mark Poole",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Emrakul, the Aeons Torn",
+    "artist": "Mark Tedin",
+    "color_identity": []
+  },
+  {
+    "name": "Vrondiss, Rage of Ancients",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "A-Winota, Joiner of Forces",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Akroma, Angel of Wrath",
+    "artist": "Chippy",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Exava, Rakdos Blood Witch",
+    "artist": "Aleksi Briclot",
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Patron of the Orochi",
+    "artist": "Christopher Moeller",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Jirina Kudro",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "B",
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Niv-Mizzet, Parun",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Raffine, Scheming Seer",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "B",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Thalia, Guardian of Thraben",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Morophon, the Boundless",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Shanna, Purifying Blade",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Lord Skitter, Sewer King",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Marrow-Gnawer",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ghalta, Stampede Tyrant",
+    "artist": "Lars Grant-West",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Atsushi, the Blazing Sky",
+    "artist": "Victor Adame Minguez",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Higure, the Still Wind",
+    "artist": "Christopher Moeller",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Ashaya, Soul of the Wild",
+    "artist": "Chase Stone",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Deekah, Fractal Theorist",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Gonti, Lord of Luxury",
+    "artist": "Daarken",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Mikaeus, the Lunarch",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Akroma, Angel of Fury",
+    "artist": "Terese Nielsen",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Vendilion Clique",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Márton Stromgald",
+    "artist": "Mark Poole",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Nicol Bolas, the Ravager // Nicol Bolas, the Arisen",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "B",
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Sapling of Colfenor",
+    "artist": "John Avon",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Cromat",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Shirei, Shizo's Caretaker",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Gwenna, Eyes of Gaea",
+    "artist": "Steve Prescott",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Rorix Bladewing",
+    "artist": "Darrell Riche",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Mirri, Weatherlight Duelist",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Akroma, Angel of Wrath",
+    "artist": "Terese Nielsen",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Wulfgar of Icewind Dale",
+    "artist": "Aleksi Briclot",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Arahbo, Roar of the World",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Kosei, Penitent Warlord",
+    "artist": "Matt Stewart",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Aboshan, Cephalid Emperor",
+    "artist": "Christopher Moeller",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Yusri, Fortune's Flame",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Shelob, Dread Weaver",
+    "artist": "Warren Mahy",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Breeches, Brazen Plunderer",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Falthis, Shadowcat Familiar",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Danitha, Benalia's Hope",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Syr Armont, the Redeemer",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Borborygmos Enraged",
+    "artist": "Aleksi Briclot",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Anim Pakal, Thousandth Moon",
+    "artist": "Chris Rahn",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Esior, Wardwing Familiar",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Nils, Discipline Enforcer",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Ambassador Laquatus",
+    "artist": "Eric Peterson",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Crovax the Cursed",
+    "artist": "Pete Venters",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Chiss-Goria, Forge Tyrant",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Nemata, Grove Guardian",
+    "artist": "John Avon",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ao, the Dawn Sky",
+    "artist": "Chris Rahn",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Emrakul, the Promised End",
+    "artist": "Jaime Jones",
+    "color_identity": []
+  },
+  {
+    "name": "Caparocti Sunborn",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Reyav, Master Smith",
+    "artist": "Warren Mahy",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Isao, Enlightened Bushi",
+    "artist": "Christopher Moeller",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Atalya, Samite Master",
+    "artist": "Rebecca Guay",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Ghave, Guru of Spores",
+    "artist": "James Paick",
+    "color_identity": [
+      "B",
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Ertai, Wizard Adept",
+    "artist": "Terese Nielsen",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Dwynen, Gilt-Leaf Daen",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Lyra Dawnbringer",
+    "artist": "Chris Rahn",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Yidaro, Wandering Monster",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Jedit Ojanen",
+    "artist": "Mark Poole",
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Hixus, Prison Warden",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Michiko Konda, Truth Seeker",
+    "artist": "Christopher Moeller",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Anara, Wolvid Familiar",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Mangara, the Diplomat",
+    "artist": "Howard Lyon",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Iizuka the Ruthless",
+    "artist": "Darrell Riche",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Trostani, Selesnya's Voice",
+    "artist": "Chippy",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Heiko Yamazaki, the General",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Uchbenbak, the Great Mistake",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "Uro, Titan of Nature's Wrath",
+    "artist": "Vincent Proce",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Jaya Ballard, Task Mage",
+    "artist": "Matt Cavotta",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Stangg",
+    "artist": "Mark Poole",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Squee, the Immortal",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Tana, the Bloodsower",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Viconia, Disciple of Blood",
+    "artist": "Daarken",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Asmodeus the Archfiend",
+    "artist": "Aleksi Briclot",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "The Prismatic Piper",
+    "artist": "Seb McKinnon",
+    "color_identity": []
+  },
+  {
+    "name": "Galadriel of Lothlórien",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Glacian, Powerstone Engineer",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Torbran, Thane of Red Fell",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Asmira, Holy Avenger",
+    "artist": "Rebecca Guay",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Hisoka, Minamo Sensei",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Aurelia, Exemplar of Justice",
+    "artist": "Chris Rahn",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Sydri, Galvanic Genius",
+    "artist": "Terese Nielsen",
+    "color_identity": [
+      "B",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Krenko, Mob Boss",
+    "artist": "Karl Kopinski",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Thalia, Heretic Cathar",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Kokusho, the Evening Star",
+    "artist": "Slawomir Maniak",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Kozilek, the Great Distortion",
+    "artist": "Chris Rahn",
+    "color_identity": []
+  },
+  {
+    "name": "Nefarox, Overlord of Grixis",
+    "artist": "Aleksi Briclot",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Drana, Kalastria Bloodchief",
+    "artist": "Mike Bierek",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Thriss, Nantuko Primus",
+    "artist": "John Avon",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Éowyn, Fearless Knight",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Progenitus",
+    "artist": "John Avon",
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Sigrid, God-Favored",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Thalia, Guardian of Thraben",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Kaervek, the Spiteful",
+    "artist": "Daarken",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Baral and Kari Zev",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Kels, Fight Fixer",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "Johan",
+    "artist": "Mark Tedin",
+    "color_identity": [
+      "G",
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Nymris, Oona's Trickster",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "Maralen of the Mornsong",
+    "artist": "Mark Zug",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Oswald Fiddlebender",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Talrand, Sky Summoner",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Anowon, the Ruin Thief",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "Teysa Karlov",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Squee, Goblin Nabob",
+    "artist": "Greg Staples",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Ayula, Queen Among Bears",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Agrus Kos, Wojek Veteran",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Imaryll, Elfhame Elite",
+    "artist": "Ryan Pancoast",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Saffi Eriksdotter",
+    "artist": "Christopher Moeller",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Razia, Boros Archangel",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Lavinia, Azorius Renegade",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Niv-Mizzet, the Firemind",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Svyelun of Sea and Sky",
+    "artist": "Seb McKinnon",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Gisela, the Broken Blade",
+    "artist": "Clint Cearley",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Inferno of the Star Mounts",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Tura Kennerüd, Skyknight",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Skithiryx, the Blight Dragon",
+    "artist": "Chippy",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Thalia, Guardian of Thraben",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Pashalik Mons",
+    "artist": "Dave Kendall",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Silumgar, the Drifting Death",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "Sram, Senior Edificer",
+    "artist": "Adam Paquette",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Experiment Kraj",
+    "artist": "Mark Tedin",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Ulamog, the Infinite Gyre",
+    "artist": "Thomas M. Baxa",
+    "color_identity": []
+  },
+  {
+    "name": "Emrakul, the Aeons Torn",
+    "artist": "Justin Sweet",
+    "color_identity": []
+  },
+  {
+    "name": "Kaysa",
+    "artist": "Rebecca Guay",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Kroxa, Titan of Death's Hunger",
+    "artist": "Vincent Proce",
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Vaevictis Asmadi, the Dire",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "B",
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Sisters of Stone Death",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Sasaya, Orochi Ascendant // Sasaya's Essence",
+    "artist": "Christopher Moeller",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Drana, Liberator of Malakir",
+    "artist": "Mike Bierek",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Avacyn, Angel of Hope",
+    "artist": "Howard Lyon",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Kaheera, the Orphanguard",
+    "artist": "Ryan Pancoast",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Thalia, Guardian of Thraben",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Masako the Humorless",
+    "artist": "Ben Thompson",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Kiki-Jiki, Mirror Breaker",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Chainer, Nightmare Adept",
+    "artist": "Steve Prescott",
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Ben-Ben, Akki Hermit",
+    "artist": "Greg Staples",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Aragorn and Arwen, Wed",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Elesh Norn // The Argent Etchings",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Munda, Ambush Leader",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Liliana, Heretical Healer // Liliana, Defiant Necromancer",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Endrek Sahr, Master Breeder",
+    "artist": "Mark Tedin",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Obeka, Brute Chronologist",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "B",
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Lagrella, the Magpie",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "G",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Kentaro, the Smiling Cat",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Rashka the Slayer",
+    "artist": "Christopher Rush",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Keleth, Sunmane Familiar",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Roalesk, Apex Hybrid",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Basandra, Battle Seraph",
+    "artist": "Terese Nielsen",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Opal-Eye, Konda's Yojimbo",
+    "artist": "Greg Staples",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Carth the Lion",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Hanna, Ship's Navigator",
+    "artist": "Terese Nielsen",
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Gut, Furious Fanatic",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Gandalf the White",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Varis, Silverymoon Ranger",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Mistform Ultimus",
+    "artist": "Anthony S. Waters",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Amy Pond",
+    "artist": "Greg Staples",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Ascendant Evincar",
+    "artist": "Mark Zug",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Myrel, Shield of Argive",
+    "artist": "Ryan Pancoast",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Ebondeath, Dracolich",
+    "artist": "Lars Grant-West",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Gut, Brutal Fanatic",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Zo-Zu the Punisher",
+    "artist": "Wayne Reynolds",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Urgoros, the Empty One",
+    "artist": "Daarken",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Doran, the Siege Tower",
+    "artist": "Rob Alexander",
+    "color_identity": [
+      "B",
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Yurlok of Scorch Thrash",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "B",
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Troyan, Gutsy Explorer",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "The Mimeoplasm",
+    "artist": "Mark Tedin",
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Yusri, Fortune's Flame",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Dogmeat, Ever Loyal",
+    "artist": "Mark Poole",
+    "color_identity": [
+      "G",
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Eriette of the Charmed Apple",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Dwynen, Gilt-Leaf Daen",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Linvala, the Preserver",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Grandmother Sengir",
+    "artist": "Pete Venters",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Kami of the Crescent Moon",
+    "artist": "Darrell Riche",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Toluz, Clever Conductor",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "B",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Kozilek, the Great Distortion",
+    "artist": "Aleksi Briclot",
+    "color_identity": []
+  },
+  {
+    "name": "Rubinia Soulsinger",
+    "artist": "Rob Alexander",
+    "color_identity": [
+      "G",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Narset, Enlightened Master",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "R",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Akroma, Vision of Ixidor",
+    "artist": "Chris Rahn",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Rhys the Exiled",
+    "artist": "Steve Prescott",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Tomik, Distinguished Advokist",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Lady Evangela",
+    "artist": "Mark Poole",
+    "color_identity": [
+      "B",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Captain Sisay",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Mishra, Excavation Prodigy",
+    "artist": "Donato Giancola",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Kediss, Emberclaw Familiar",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Norin the Wary",
+    "artist": "Heather Hudson",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Viconia, Drow Apostate",
+    "artist": "Daarken",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Jarad, Golgari Lich Lord",
+    "artist": "Svetlin Velinov",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Esika, God of the Tree // The Prismatic Bridge",
+    "artist": "Johannes Voss",
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Ich-Tekik, Salvage Splicer",
+    "artist": "Aleksi Briclot",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Tolsimir, Friend to Wolves",
+    "artist": "Ryan Pancoast",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Linden, the Steadfast Queen",
+    "artist": "Ryan Pancoast",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Zo-Zu the Punisher",
+    "artist": "Matt Cavotta",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Inti, Seneschal of the Sun",
+    "artist": "Victor Adame Minguez",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Ragavan, Nimble Pilferer",
+    "artist": "Magali Villeneuve",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Silvar, Devourer of the Free",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Cho-Manno, Revolutionary",
+    "artist": "Steven Belledin",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Korlessa, Scale Singer",
+    "artist": "Jesper Ejsing",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Ihsan's Shade",
+    "artist": "Daarken",
+    "color_identity": [
+      "B"
+    ]
+  }
+]
